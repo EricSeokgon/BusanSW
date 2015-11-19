@@ -1,24 +1,11 @@
-package net.busansw.busansw;
+package air.com.dbcore.BSWApp;
 
-import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.view.KeyEvent;
-import android.view.View;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.webkit.WebChromeClient;
-import android.webkit.WebSettings;
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.webkit.WebSettings;
+import android.view.KeyEvent;
+import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.EditText;
 
 public class MainActivity extends Activity  {
     private WebView mWebView;

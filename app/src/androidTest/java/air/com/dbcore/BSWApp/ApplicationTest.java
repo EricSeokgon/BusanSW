@@ -1,4 +1,4 @@
-package net.busansw.busansw;
+package air.com.dbcore.BSWApp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
