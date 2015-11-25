@@ -5,11 +5,11 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "air.com.dbcore.BSWApp"
+        applicationId "net.busansw.BSWApp"
         minSdkVersion 10
         targetSdkVersion 23
-        versionCode 2
-        versionName "1.1"
+        versionCode 1
+        versionName "1.0"
     }
     buildTypes {
         release {

@@ -1,4 +1,4 @@
-package air.com.dbcore.BSWApp;
+package net.busansw.BSWApp;
 
 import android.app.Activity;
 import android.os.Bundle;
